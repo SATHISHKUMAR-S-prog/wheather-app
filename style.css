@@ -7,12 +7,22 @@
   left: 50%;
   transform: translateX(-50%); */
 }
+#profile-img {
+    margin-top:30px;
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url("./wheather app.jpeg") no-repeat;
+    background-size: 235px 235px;
+    background-position-x: -35px;
+    /* border: 3px solid #585858; */
+}
 
 .banner {
   color: yellow;
   font-family: 'Courier New', Courier, monospace;
   position: absolute;
-  top: 10px;
   left: 50%;
   transform: translateX(-50%);
 }
